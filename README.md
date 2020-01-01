@@ -1,4 +1,4 @@
-#  Parking Lot Detection
+#  Parking Lot Detection OpenCV
   
   
   ![Capture33](https://user-images.githubusercontent.com/47969409/71643330-737aa200-2cde-11ea-90b5-bfe9d6219922.PNG)
