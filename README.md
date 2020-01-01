@@ -1,10 +1,13 @@
 #  Parking Lot Detection
- 
+  
+  
+  ![Capture33](https://user-images.githubusercontent.com/47969409/71643330-737aa200-2cde-11ea-90b5-bfe9d6219922.PNG)
+  
   [![Watch the video](https://img.youtube.com/vi/Jf88JUq6ZSQ/maxresdefault.jpg)](https://youtu.be/Jf88JUq6ZSQ)
    
   https://youtu.be/Jf88JUq6ZSQ
   
-  ![Capture33](https://user-images.githubusercontent.com/47969409/71643330-737aa200-2cde-11ea-90b5-bfe9d6219922.PNG)
+  
 
   
 ## Prerequisites
